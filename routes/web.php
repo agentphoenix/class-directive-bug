@@ -19,3 +19,4 @@ Route::get('/', function () {
 
 Route::view('failure', 'failure');
 Route::view('success', 'success');
+Route::view('incorrect', 'incorrect');
